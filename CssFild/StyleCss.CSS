@@ -3,15 +3,22 @@
 */
 
 p {
-    color: green;
+    color: rgb(54, 122, 54);
   }
   p {
-    color: red;
+    color: rgb(0, 217, 255);
   }
   div{
     background-color: aquamarine;
-    background-image: url("../audio/zon.JPG") ;
-    background-repeat: repeat-x;
+   background-image: url("../audio/R2.jpg") ;
+   background-repeat: no-repeat;
+    /*   background-attachment: scroll;*/
+   /* background-position: 100% 50%;*/
+    background-size: cover;
+  
+   padding: 50px;
+   padding-top: 100px;
+   
   }
   
    
