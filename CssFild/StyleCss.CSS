@@ -9,23 +9,15 @@ p {
     color: rgb(0, 217, 255);
   }
   
-  div{
-    width: 400px;
-    height: 400px;
-  }
-  .assign-2-shape-1{
-    background-image: url(../audio/css-assignment-5-8.png);
-   
- 
+  .zon{
+    width: 100px;
+    height: 100px;
+    color: #000;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    margin: 200px;
+    overflow-y: scroll;
+    overflow-x: hidden;
   }
   
-  .assign-2-shape-2{
-    background-image: url(../audio/css-assignment-5-8.png);
-  }
-  .assign-2-shape-3{
-    background-image: url(../audio/css-assignment-5-8.png);
-  }
-  .assign-2-shape-4{
-    background-image: url(../audio/css-assignment-5-8.png);
-  }
    
