@@ -10,16 +10,19 @@ p {
   }
   
   .zon{
-  
+    width: 400px;
+    height: 400px;
     color: #000;
     text-shadow: 5px 1px 0 rgb(0, 217, 255);
     direction: ltr;
     text-decoration: underline;
+   
 
   }
   .google{
     text-decoration: none;
     text-transform: lowercase;
+
   
   }
   
